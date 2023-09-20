@@ -87,9 +87,9 @@ WSGI_APPLICATION = 'A.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'shopdb',
+        'NAME': '',
         'USER': 'postgres',
-        'PASSWORD': 'Myalyps4',
+        'PASSWORD': '',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
