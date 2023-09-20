@@ -7,7 +7,7 @@ external storage
 RabbitMQ & celery
 
 
-pip freeze
+requirements: 
 amqp==5.1.1
 asgiref==3.7.2
 billiard==4.1.0
