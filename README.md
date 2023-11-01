@@ -1,6 +1,7 @@
 # Django-online-shop
 
- Authorization with OTP
+ Authorization
+ OTP
  Reset password
  Storage
  Que controle
